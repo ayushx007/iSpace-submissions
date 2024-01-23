@@ -1,0 +1,32 @@
+body{
+    background-color: magenta;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.box{
+    border: 5px solid red;
+    border-radius: 50px;
+    height: 500px;
+    width: 500px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+.title{
+    text-align: center;
+    background-color: yellow;
+}
+#menu{
+    width: 50px;
+    height: fit-content;
+    margin-right: 200px;
+}
+.parent{
+    display: flex;
+}
+#blog{
+    border-left: 3px solid green;
+    padding-left: 10px;
+}
+
+footer{
+    text-align: center;
+}
